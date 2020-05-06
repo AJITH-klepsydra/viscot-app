@@ -1,0 +1,214 @@
+Afghanistan : country/afghanistan/
+Albania : country/albania/
+Algeria : country/algeria/
+Andorra : country/andorra/
+Angola : country/angola/
+Anguilla : country/anguilla/
+Antigua and barbuda : country/antigua-and-barbuda/
+Argentina : country/arge]
+ntina/
+Armenia : country/armenia/
+Aruba : country/aruba/
+Australia : country/australia/
+Austria : country/austria/
+Azerbaijan : country/azerbaijan/
+Bahamas : country/bahamas/
+Bahrain : country/bahrain/
+Bangladesh : country/bangladesh/
+Barbados : country/barbados/
+Belarus : country/belarus/
+Belgium : country/belgium/
+Belize : country/belize/
+Benin : country/benin/
+Bermuda : country/bermuda/
+Bhutan : country/bhutan/
+Bolivia : country/bolivia/
+Bosnia and herzegovina : country/bosnia-and-herzegovina/
+Botswana : country/botswana/
+Brazil : country/brazil/
+British virgin islands : country/british-virgin-islands/
+Brunei darussalam : country/brunei-darussalam/
+Bulgaria : country/bulgaria/
+Burkina faso : country/burkina-faso/
+Burundi : country/burundi/
+Cabo verde : country/cabo-verde/
+Cambodia : country/cambodia/
+Cameroon : country/cameroon/
+Canada : country/canada/
+Caribbean netherlands : country/caribbean-netherlands/
+Cayman islands : country/cayman-islands/
+Central african republic : country/central-african-republic/
+Chad : country/chad/
+Channel islands : country/channel-islands/
+Chile : country/chile/
+China : country/china/
+China : country/china/
+China hong kong sar : country/china-hong-kong-sar/
+China macao sar : country/china-macao-sar/
+Colombia : country/colombia/
+Comoros : country/comoros/
+Congo : country/congo/
+Costa rica : country/costa-rica/
+Cote d ivoire : country/cote-d-ivoire/
+Croatia : country/croatia/
+Cuba : country/cuba/
+Curacao : country/curacao/
+Cyprus : country/cyprus/
+Czech republic : country/czech-republic/
+Democratic republic of the congo : country/democratic-republic-of-the-congo/
+Denmark : country/denmark/
+Djibouti : country/djibouti/
+Dominica : country/dominica/
+Dominican republic : country/dominican-republic/
+Ecuador : country/ecuador/
+Egypt : country/egypt/
+El salvador : country/el-salvador/
+Equatorial guinea : country/equatorial-guinea/
+Eritrea : country/eritrea/
+Estonia : country/estonia/
+Ethiopia : country/ethiopia/
+Faeroe islands : country/faeroe-islands/
+Falkland islands malvinas : country/falkland-islands-malvinas/
+Fiji : country/fiji/
+Finland : country/finland/
+France : country/france/
+French guiana : country/french-guiana/
+French polynesia : country/french-polynesia/
+Gabon : country/gabon/
+Gambia : country/gambia/
+Georgia : country/georgia/
+Germany : country/germany/
+Ghana : country/ghana/
+Gibraltar : country/gibraltar/
+Greece : country/greece/
+Greenland : country/greenland/
+Grenada : country/grenada/
+Guadeloupe : country/guadeloupe/
+Guatemala : country/guatemala/
+Guinea : country/guinea/
+Guinea bissau : country/guinea-bissau/
+Guyana : country/guyana/
+Haiti : country/haiti/
+Holy see : country/holy-see/
+Honduras : country/honduras/
+Hungary : country/hungary/
+Iceland : country/iceland/
+India : country/india/
+Indonesia : country/indonesia/
+Iran : country/iran/
+Iraq : country/iraq/
+Ireland : country/ireland/
+Isle of man : country/isle-of-man/
+Israel : country/israel/
+Italy : country/italy/
+Jamaica : country/jamaica/
+Japan : country/japan/
+Jordan : country/jordan/
+Kazakhstan : country/kazakhstan/
+Kenya : country/kenya/
+Kuwait : country/kuwait/
+Kyrgyzstan : country/kyrgyzstan/
+Laos : country/laos/
+Latvia : country/latvia/
+Lebanon : country/lebanon/
+Liberia : country/liberia/
+Libya : country/libya/
+Liechtenstein : country/liechtenstein/
+Lithuania : country/lithuania/
+Luxembourg : country/luxembourg/
+Macedonia : country/macedonia/
+Madagascar : country/madagascar/
+Malawi : country/malawi/
+Malaysia : country/malaysia/
+Maldives : country/maldives/
+Mali : country/mali/
+Malta : country/malta/
+Martinique : country/martinique/
+Mauritania : country/mauritania/
+Mauritius : country/mauritius/
+Mayotte : country/mayotte/
+Mexico : country/mexico/
+Moldova : country/moldova/
+Monaco : country/monaco/
+Mongolia : country/mongolia/
+Montenegro : country/montenegro/
+Montserrat : country/montserrat/
+Morocco : country/morocco/
+Mozambique : country/mozambique/
+Myanmar : country/myanmar/
+Namibia : country/namibia/
+Nepal : country/nepal/
+Netherlands : country/netherlands/
+New caledonia : country/new-caledonia/
+New zealand : country/new-zealand/
+Nicaragua : country/nicaragua/
+Niger : country/niger/
+Nigeria : country/nigeria/
+Norway : country/norway/
+Oman : country/oman/
+Pakistan : country/pakistan/
+Panama : country/panama/
+Papua new guinea : country/papua-new-guinea/
+Paraguay : country/paraguay/
+Peru : country/peru/
+Philippines : country/philippines/
+Poland : country/poland/
+Portugal : country/portugal/
+Qatar : country/qatar/
+Reunion : country/reunion/
+Romania : country/romania/
+Russia : country/russia/
+Rwanda : country/rwanda/
+Saint barthelemy : country/saint-barthelemy/
+Saint kitts and nevis : country/saint-kitts-and-nevis/
+Saint lucia : country/saint-lucia/
+Saint martin : country/saint-martin/
+Saint pierre and miquelon : country/saint-pierre-and-miquelon/
+Saint vincent and the grenadines : country/saint-vincent-and-the-grenadines/
+San marino : country/san-marino/
+Sao tome and principe : country/sao-tome-and-principe/
+Saudi Arabia : country/saudi-arabia/
+Senegal : country/senegal/
+Serbia : country/serbia/
+Seychelles : country/seychelles/
+Sierra leone : country/sierra-leone/
+Singapore : country/singapore/
+Sint maarten : country/sint-maarten/
+Slovakia : country/slovakia/
+Slovenia : country/slovenia/
+Somalia : country/somalia/
+South Korea : country/south-korea/
+South africa : country/south-africa/
+South sudan : country/south-sudan/
+Spain : country/spain/
+Sri lanka : country/sri-lanka/
+State of palestine : country/state-of-palestine/
+Sudan : country/sudan/
+Suriname : country/suriname/
+Swaziland : country/swaziland/
+Sweden : country/sweden/
+Switzerland : country/switzerland/
+Syria : country/syria/
+Taiwan : country/taiwan/
+Tajikistan : country/tajikistan/
+Tanzania : country/tanzania/
+Thailand : country/thailand/
+Timor leste : country/timor-leste/
+Togo : country/togo/
+Trinidad and tobago : country/trinidad-and-tobago/
+Tunisia : country/tunisia/
+Turkey : country/turkey/
+Turks and caicos islands : country/turks-and-caicos-islands/
+UK : country/uk/
+USA : country/us/
+Uganda : country/uganda/
+Ukraine : country/ukraine/
+United Arab Emirates : country/united-arab-emirates/
+Uruguay : country/uruguay/
+Uzbekistan : country/uzbekistan/
+Venezuela : country/venezuela/
+Viet nam : country/viet-nam/
+Western sahara : country/western-sahara/
+Yemen : country/yemen/
+Zambia : country/zambia/
+Zimbabwe : country/zimbabwe/
