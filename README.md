@@ -1,13 +1,13 @@
 <!---
 <portfolio>
 <image>
-https://media.geeksforgeeks.org/wp-content/uploads/2-500x250-2.jpg
+https://cdn.pixabay.com/photo/2020/03/22/16/17/coronavirus-4957673__340.jpg
 </image>
 <description>
 The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
 </description>
 <tags>
-#django#python#html#css
+#python#pyqt5#beautifulsoup#opencv
 </tags>
 </portfolio>
 -->
