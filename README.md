@@ -1,3 +1,17 @@
+<!---
+<portfolio>
+<image>
+https://media.geeksforgeeks.org/wp-content/uploads/2-500x250-2.jpg
+</image>
+<description>
+The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
+</description>
+<tags>
+#django#python#html#css
+</tags>
+</portfolio>
+-->
+
 # Covid Tracker 
 
 Data Tracker
@@ -42,6 +56,7 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
 </ol>
 
 ---
+
 
 ## Working
 
@@ -177,16 +192,4 @@ Licensed under the [GNU GPL](LICENSE)
 ---
 
 Mention This [Repo](https://github.com/Niranjanprof/Covid-19-Tracker) while you use this in your projects :)
-<!---
-<portfolio>
-<image>
-https://media.geeksforgeeks.org/wp-content/uploads/2-500x250-2.jpg
-</image>
-<description>
-The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
-</description>
-<tags>
-#django#python#html#css
-</tags>
-</portfolio>
--->
+
